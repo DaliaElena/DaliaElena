@@ -2,13 +2,10 @@
 <img src="https://komarev.com/ghpvc/?username=daliaelena" alt="daliaelena" />
 
 
-## Geographer, data, bicycles and cats lover!!
+## Geographer, SIG's, bicycles and cats lover!!
 
-- 👯 I’m looking to collaborate with other SIG analyst
-
-### Connect with me:
-
-<br />
+- 🌎 I’m looking to collaborate with other SIG analyst
+- 🚴‍♀️ I love to ride my bicycle 🤘
 
 ### Languages and Tools:
 

@@ -23,8 +23,7 @@
 ## My Projects
 
 
-
-[Farm]: https://daliaelena.github.io/farmville/
+<a href="https://daliaelena.github.io/farmville/" target="_blank">Farm</a>
 
 
 

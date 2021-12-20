@@ -24,7 +24,7 @@
 <br />
 <br />
 
-## My Projects
+## My Personal Projects
 
 
 <a href="https://daliaelena.github.io/farmville/" target="_blank">Farm</a>
@@ -32,6 +32,13 @@
 <a href="https://daliaelena.github.io/drawing_mouse/" target="_blank">Drawing with mouse</a>
 
 <a href="https://daliaelena.github.io/drawing_arrows/" target="_blank">Drawing with arrows</a>
+
+
+## My Professional Projects
+
+<a href="http://helpmi.herokuapp.com/" target="_blank">Pedidos fáciles</a>
+
+<a href="https://netjernetworks.odoo.com/" target="_blank">Netjer networks</a>
 
 
 

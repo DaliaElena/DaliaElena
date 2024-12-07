@@ -3,8 +3,11 @@
 
 
 Front End Dev, Human-Centered Design enthusiast. 
+<br />
 SIG Analyst working towards better and more friendly cities.
-Mother and wife 
+<br />
+Mother and wife. 
+<br />
 Lover of bicycles, animals, and nature!
 
 

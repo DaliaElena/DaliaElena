@@ -2,7 +2,9 @@
 <img src="https://komarev.com/ghpvc/?username=daliaelena" alt="daliaelena" />
 
 
-## Geographer, SIG's, bicycles and cats lover!!
+## Mother, Freelance, Geographer, SIG's. 
+Bicycles and animal and nature lover!!
+
 
 - 🌎 I’m looking to collaborate with other SIG analyst
 - 🚴‍♀️ I love to ride my bicycle 🤘

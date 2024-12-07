@@ -2,8 +2,10 @@
 <img src="https://komarev.com/ghpvc/?username=daliaelena" alt="daliaelena" />
 
 
-## Mother, Freelance, Geographer, SIG's. 
-Bicycles and animal and nature lover!!
+Front End Dev, Human-Centered Design enthusiast. 
+SIG Analyst working towards better and more friendly cities.
+Mother and wife 
+Lover of bicycles, animals, and nature!
 
 
 - 🌎 I’m looking to collaborate with other SIG analyst
